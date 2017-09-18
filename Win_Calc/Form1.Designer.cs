@@ -317,7 +317,8 @@
             this.Controls.Add(this.seven);
             this.KeyPreview = true;
             this.MaximizeBox = false;
-            this.MinimumSize = new System.Drawing.Size(290, 293);
+            this.MaximumSize = new System.Drawing.Size(290, 328);
+            this.MinimumSize = new System.Drawing.Size(290, 328);
             this.Name = "Form1";
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
